@@ -1,0 +1,3 @@
+This project contains a compiler including scanner, parser, type checking and ASM libs to generate Java bytecode.
+The functionality includes analyzing lexical and syntax structure, generating and visiting abstract syntax tree via ASM visitors.
+Finally, the project will read pictures from website and then process it as the way we want via java bytecode.
